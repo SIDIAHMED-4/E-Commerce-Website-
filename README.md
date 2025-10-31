@@ -32,7 +32,7 @@ The project was developed as a **graduation project**, focusing on clean UI, res
 
 ## 📸 Screenshots 
 
-![Home Page](./public/screenshots.png)
+![Home Page](./public/screenshots.svg)
 
 ---
 

@@ -1,4 +1,4 @@
-import { ITEMS } from '../common/functions/items'
+import { ITEMS } from '../Common/functions/items'
 import FlashSalesSection from "../Sections/FlashSalesSection";
 import BestSellingSection from "../Sections/BestSellingSection";
 import NewArrivalSection from "../Sections/NewArrivalSection";

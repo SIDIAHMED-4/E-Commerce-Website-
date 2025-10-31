@@ -4,7 +4,7 @@ import IPhonSectionOne from "./IPhonSectionOne";
 import IPhonSectionTwo from "./IPhonSectionTwo"; // مثال لمحتوى آخر
 import IPhonSectionThree from "./IPhonSectionThree";
 import PaginationIndicator from "../Common/components/PaginationIndicator"; // ← المكون الذي أعطيتني إياه
-import { ITEMS } from "../common/functions/items";
+import { ITEMS } from "../Common/functions/items";
 import i18n from "../Common/components/LangConfig";
 
 const IPhonItem = ITEMS.find((item) => item.title === i18n.t("itemsArray.26.title"));

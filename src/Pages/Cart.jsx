@@ -45,7 +45,7 @@ export const Cart = () => {
                 "&:focus": {
                   transform: "translateY(0)",
                   transition: "transform 0.1s ease",
-                  transform: "translateY(0)",
+                  
                 },
               },
             }}
@@ -65,7 +65,7 @@ export const Cart = () => {
               "&:focus": {
                 transform: "translateY(0)",
                 transition: "transform 0.1s ease",
-                transform: "translateY(0)",
+                
               },
             },
           }}
@@ -91,7 +91,7 @@ export const Cart = () => {
                 "&:focus": {
                   transform: "translateY(0)",
                   transition: "transform 0.1s ease",
-                  transform: "translateY(0)",
+                  
                 },
               },
             }}
@@ -127,7 +127,7 @@ export const Cart = () => {
                     "&:focus": {
                       transform: "translateY(0)",
                       transition: "transform 0.1s ease",
-                      transform: "translateY(0)",
+                  
                     },
                   },
                 }}

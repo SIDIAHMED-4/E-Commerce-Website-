@@ -8,7 +8,7 @@ import { Button } from "@mui/material";
 import { Link } from "react-router-dom";
 import bKash from '../Checkout/bKash.svg';
 import ChinaVisa from '../Checkout/ChinaVisa.svg';
-import mastercard from '../Checkout/mastercard.svg';
+import mastercard from '../Checkout/MasterCard.svg';
 import visa from '../Checkout/visa.svg';
 import { firestore } from "../Auth/firebase";
 import { onAuthStateChanged } from "firebase/auth";
@@ -259,7 +259,7 @@ useEffect(() => {
                     "&:focus": {
                       transform: "translateY(0)",
                       transition: "transform 0.1s ease",
-                      transform: "translateY(0)",
+                     
                     },
                   },
                 }}
@@ -281,7 +281,7 @@ useEffect(() => {
                       "&:focus": {
                         transform: "translateY(0)",
                         transition: "transform 0.1s ease",
-                        transform: "translateY(0)",
+                   
                       },
                     },
                   }}

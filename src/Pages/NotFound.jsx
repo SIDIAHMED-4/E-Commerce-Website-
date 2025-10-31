@@ -26,7 +26,7 @@ export const NotFound = () => {
                 "&:focus": {
                   transform: "translateY(0)",
                   transition: "transform 0.1s ease",
-                  transform: "translateY(0)",
+                
                 },
               },
             }}

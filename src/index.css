@@ -1,0 +1,31 @@
+
+@import "tailwindcss";
+
+:root {
+    --Title-Active :rgba(20, 20, 43, 1);
+    --Primary : rgba(255, 255, 255, 1);
+    --Body : rgba(78, 75, 102, 1);
+    --Label : rgba(110, 113, 145, 1);
+    --Placeholder : rgba(160, 163, 189, 1);
+    --Line : rgba(217, 219, 233, 1);
+    --Input-Background : rgba(239, 240, 246, 1);
+    --Background : rgba(247, 247, 252, 1);
+    --Off-white : rgba(252, 252, 252, 1);
+    --Primary : rgba(95, 46, 234, 1);
+    --Secondary : rgba(28, 200, 238, 1);
+    --Error : rgba(237, 46, 126, 1) ;
+    --Success : rgba(0, 186, 136, 1) ;
+    --Button1 : rgba(0, 255, 102, 1);
+    --Warning : rgba(244, 183, 64, 1) ;
+    --Gradient-Primary : rgba(116, 51, 255, 1) , rgba(255, 163, 253, 1);
+    --Gradient-Secondary : rgba(98, 74, 242, 1) , rgba(80, 221, 195, 1) ;
+    --Gradient-Accent : rgba(235, 0, 85, 1) , rgba(255, 250, 128, 1);
+    --Secondary-2 : rgba(219, 68, 68, 1);
+    --red : red;
+    --yellow : yellow;
+    --black : black;
+    --SideImage: rgba(203, 228, 232, 1);
+    --Account-Dropdown : rgb(142, 126, 142);
+    --color : rgba(235, 126, 168, 1);
+
+}

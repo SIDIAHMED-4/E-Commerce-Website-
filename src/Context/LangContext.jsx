@@ -14,9 +14,11 @@ export const LangProvider = ({ children }) => {
   const [lang, setLang] = useState(i18n.language);
 
   const changeLanguage = (selectedLang) => {
+    i18n.changeLanguage(selectedLang).then(() => {
     setLang(selectedLang);
     localStorage.setItem("lang", selectedLang);
-    i18n.changeLanguage(selectedLang);
+
+    });
   };
 
   return (

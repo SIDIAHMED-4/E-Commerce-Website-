@@ -56,23 +56,24 @@ const SpecialOffers = () => {
             <span className={`${clasNam2}`}> {i18n.t("deal.seconds")}</span>
           </div>
         </div>
-
+{OffreItem && 
         <Link to={`/${OffreItem.title}`}>
           <Button
             className="bg-green-400 mb-8 py-4 px-12 rounded  ease-in-out  duration-300 transform hover:scale-105 hover:-translate-y-1"
             text={i18n.t("deal.buyNow")}
           />
-        </Link>
+        </Link>}
       </div>
 
       <div className="mt-4">
+        {OffreItem && 
         <Link to={`/${OffreItem.title}`}>
         <img
           src={OffreItem.imageSrc}
           alt={OffreItem.title}
           loading="lazy"
           className="transition-transform duration-300 transform hover:-translate-y-4 hover:scale-110 hover:motion-safe:animate-pulse"
-        /></Link>
+        /></Link>}
       </div>
     </div>
   );

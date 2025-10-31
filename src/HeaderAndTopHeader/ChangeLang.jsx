@@ -2,19 +2,15 @@ import { useState } from "react";
 import { CircularProgress, Select, MenuItem, Snackbar, Alert } from "@mui/material";
 import { useLang } from "../Context/LangContext";
 
-
-
 function ChangeLang() {
   const { lang, changeLanguage } = useLang();
   const [snackbarOpen, setSnackbarOpen] = useState(false);
   const [selectedLanguage, setSelectedLanguage] = useState(lang);
   const [loading, setLoading] = useState(false);
-
+  
   const styles = {
     "& .MuiSelect-select": {
       color: "red",
-
-      
     },
     "@media (max-width: 768px)": {
       fontSize: "22px",

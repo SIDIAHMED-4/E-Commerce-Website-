@@ -49,10 +49,10 @@ const Logo = () => {
       {/* ✅ الصورة المتبدلة */}
       
       <div className="transition-transform duration-300 transform hover:translate-y-1 hover:scale-105">
-        <Link to={`/${currentSlide.product.title}`} >
+        <Link to={`/${currentSlide.product?.title}`} >
           <img
-            src={currentSlide.product.imageSrc}
-            alt={currentSlide.product.title}
+            src={currentSlide.product?.imageSrc}
+            alt={currentSlide.product?.title}
             className="w-[20rem] hover:scale-105  pb-10 lg:pb-0 transition-transform duration-300"
           />
         </Link>

@@ -6,6 +6,16 @@ This is a modern **E-Commerce website** built using **React** and **Firebase**, 
 The project was developed as a **graduation project**, focusing on clean UI, responsive design, and functional integration with Firebase services.
 
 ---
+## 📸 Screenshots 
+
+![Home Page](./public/screenshots.svg)
+
+---
+
+## 🔗 Live Dem 
+[👉 View on Vercel https:](//e-commerce-website-two-orpin.vercel.app/)
+
+---
 
 ## 🚀 Features 
 
@@ -28,17 +38,7 @@ The project was developed as a **graduation project**, focusing on clean UI, res
 - 🌍 **i18next** for multilingual support  
 - 🧠 **React Context API** for global state management  
 
----
-
-## 📸 Screenshots 
-
-![Home Page](./public/screenshots.svg)
-
----
-
-## 🔗 Live Dem 
-👉 View on Vercel https://e-commerce-website-two-orpin.vercel.app/
-
+--- 
 ## 👨‍💻 About the Developer
 
 Developed by Sidi Ahmed Nejaba — a Front-End Developer from Mauritania, passionate about building modern, user-friendly web applications.

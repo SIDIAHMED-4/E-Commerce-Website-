@@ -13,7 +13,7 @@ The project was developed as a **graduation project**, focusing on clean UI, res
 ---
 
 ## 🔗 Live Dem 
-[👉 View on Vercel https:](//e-commerce-website-two-orpin.vercel.app/)
+[👉 View on Vercel ](https://e-commerce-website-two-orpin.vercel.app/)
 
 ---
 
@@ -43,9 +43,7 @@ The project was developed as a **graduation project**, focusing on clean UI, res
 
 Developed by Sidi Ahmed Nejaba — a Front-End Developer from Mauritania, passionate about building modern, user-friendly web applications.
 
-💼 LinkedIn Profile
-
-https://www.linkedin.com/in/sidi-ahmed-%F0%9F%87%B5%F0%9F%87%B8-645859246/
+💼 [LinkedIn Profile](https://www.linkedin.com/in/sidi-ahmed-%F0%9F%87%B5%F0%9F%87%B8-645859246/)
 
 ## ⚙️ Installation 
 
